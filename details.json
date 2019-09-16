@@ -1,0 +1,29 @@
+{
+    "representative": {
+        "logo": {
+            "logo_256": "https://raw.githubusercontent.com/fomomasternode/preptestnet3/master/fomologo256.png",
+            "logo_1024": "https://raw.githubusercontent.com/fomomasternode/preptestnet3/master/fomologo1024.png",
+            "logo_svg": "https://raw.githubusercontent.com/fomomasternode/preptestnet3/master/fomologo.svg"
+        },
+        "media": {
+        "steemit": "",
+      "twitter": "https://twitter.com/fomomasternode",
+      "youtube": "",
+      "facebook": "",
+      "github": "https://github.com/fomomasternode",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "",
+      "wechat": "",
+      "medium": ""
+    }
+    },
+    "server": {
+        "location": {
+            "country": "KOR",
+            "city": "Seoul"
+        },
+        "server_type": "cloud",
+        "api_endpoint": "52.78.71.132:9000"
+    }
+}
